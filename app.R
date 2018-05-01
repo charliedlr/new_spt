@@ -5,7 +5,7 @@ library(shiny)
 # Define UI for application that draws a histogram
 ui <- shinyUI(fluidPage(
    titlePanel("Switch Point Theorem app"),
-   h4("Charlie de la Rosa - 2017"),
+   h4("Carlos A. de la Rosa - 2017"),
    sidebarLayout(
      sidebarPanel(
        sliderInput(
